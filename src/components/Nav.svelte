@@ -24,6 +24,6 @@
 </style>
 
 <div class="mainnav">
-  <a class={page == '/' ? 'active' : ''} href="/">Welcome</a>
+  <a class={page == '/' ? 'active' : ''} href="/">Welcome 2</a>
   <a class={page == '/blog/' ? 'active' : ''} href="/blog/">Blog</a>
 </div>
